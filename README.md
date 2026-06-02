@@ -19,6 +19,3 @@ Automation workflow بيبعت حكمة يومية على Telegram كل صباح
 3. أضف Groq API Key
 4. أضف Telegram Bot Token و Chat ID
 5. اضغط Publish
-
-## صورة الـ Workflow
-[أضيفي هنا صورة screenshot للـ canvas]
